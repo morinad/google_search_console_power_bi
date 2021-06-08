@@ -27,4 +27,4 @@ https://github.com/morinad/google_search_console_power_bi/raw/main/SearchConsole
 
 ### Полезные ссылки:
 
-Справка API: https://developers.google.com/adwords/api/docs/appendix/reports/all-reports
+Справка API: https://developers.google.com/webmaster-tools/search-console-api-original/v3/searchanalytics/query
