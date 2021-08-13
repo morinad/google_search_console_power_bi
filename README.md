@@ -10,6 +10,7 @@
 ### Как воспользоваться коннектором:
 
 1) Скачайте файлы коннекторов tokenGSC.mez и SearchConsole.mez и поместите в папку C:\Users\USERNAME\Documents\Power BI Desktop\Custom Connectors, подставив USERNAME своего компьютера.
+
 https://github.com/morinad/google_token-oauth_by_link/raw/main/googleToken.mez
 https://github.com/morinad/google_search_console_power_bi/raw/main/SearchConsole/SearchConsole.mez
 
